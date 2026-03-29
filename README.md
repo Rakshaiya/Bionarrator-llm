@@ -3,7 +3,7 @@
 A Python-based framework that interprets real-time wet-lab sensor data into explainable biological insights using Retrieval-Augmented Generation (RAG), structured prompt engineering, rule-based validation, and explainability modules.
 
 > Based on the research paper: **"BioNarrator-LLM: A Retrieval-Augmented Framework for Interpreting Real-Time Wet-Lab Sensor Data into Explainable Biological Insights"**
-> Rakshaiya Yadav G, Niranjana P, Ramesh Kumar V
+> Rakshaiya Yadav G, Niranjana P
 > Sathyabama Institute of Science and Technology, Chennai
 
 ---
